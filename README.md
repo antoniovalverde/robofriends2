@@ -1,4 +1,4 @@
-# robofriends
+# robofriends with React and Redux
 Tutorial for React
 To run the project:
 
